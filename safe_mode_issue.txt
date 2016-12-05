@@ -1,0 +1,7 @@
+hadoop dfsadmin -safemode leave
+CCB008000651US
+CCB008000650US
+CCB008000649US
+CCB008000648US
+Forensiq, Inc. builds a fraud detection system working for all stages of AD campaign, \textit{i.e.} pre-campaign, in-campaign and post-campaign. Pre-campaign fraud detection will score the impression to determine the level of risk for this impression in 10 milliseconds before the AD campaign is run. This kind of pre-bid fraud detection is based on aggregate data and IP reputation from an evolving fraud intelligence database. When the AD campaign is serving, a forensiq tag which is a javascript tag inserted into publishers' websites or ADs will track the impression and get real-time scores. The stage of post-campaign is for reporting after the campaign is run. In this stage, data will be collected and visualized for analyzing the risk score, fraud trends and so on. 
+
